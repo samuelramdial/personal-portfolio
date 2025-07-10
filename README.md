@@ -1,6 +1,6 @@
 # Personal Portfolio Website 
 
-This project is a responsive personal portfolio website built with **HTML5** and *CSS3** from scratch - no frameworks or site builders used. 
+This project is a responsive personal portfolio website built with **HTML5** and **CSS3** from scratch - no frameworks or site builders used. 
 
 ## Features
 - **Three static pages:**
@@ -26,4 +26,5 @@ Project developed for:
 - **ITSC 3135 - Web-Based Application Design and Development**
 - Intstructor: Dr. Lijuan Cao
 - University of North Carolina at Charlotte
+
 © 2025 Samuel Ramdial
