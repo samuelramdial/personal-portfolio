@@ -14,7 +14,7 @@ This project is a responsive personal portfolio website built with **HTML5** and
   - Typography using Google Fonts with a clear visual hierarchy
   - Thoughtful color scheme with accessible contrast tested by color contrast tools
 - **Usability**
-  - Fully functional navigation links and b uttons with hover and active states
+  - Fully functional navigation links and buttons with hover and active states
   - Form validation on contact page to ensure proper inputs
 
 ## Live Demo 
