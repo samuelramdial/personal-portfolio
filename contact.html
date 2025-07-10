@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,700&display=swap" rel="stylesheet">
+    <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <link rel = "stylesheet" href = "css/contact.css">
+    <title>Contact Me</title>
+    <link rel = "icon" type = "image/x-icon" href = "images/laptop.jpg">
+</head>
+<body>
+    <header id = "header" class = "flex-row">
+        <img src = "images/logo.jpg" alt = "logo" width = "150" height = "50">
+        <nav>
+            <ul class = "flex-row">
+                <li><a href = "index.html">Home</a></li>
+                <li><a href = "project.html">Projects</a></li>
+                <li><a href = "contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class = "contact flex-column">
+               <h1 class = "title">Contact Me</h1>
+               <h3>Contact Information</h3>
+               <p>Email: sramdial@uncc.edu</p>
+               <p>Phone: 910 - 322 - 9969</p>
+            <form>
+                <div>
+                    <label for = "first-name">First Name</label>
+                    <input type = "text" id = "first-name" required>
+                </div>
+
+                <div>
+                    <label for = "last-name">Last Name</label>
+                    <input type = "text" id = "last-name" required>
+                </div>
+
+                <div>
+                    <label for = "phone">Phone</label>
+                    <input type = "tel" id = "phone" required>
+                </div>
+
+                <div>
+                    <label for = "email">Email</label>
+                    <input type = "email" name = "email" id = "email" required>
+                </div>
+                <div class = "span">
+                    <label for = "comments">Message</label>
+                    <textarea id = "comments" cols = "20" rows = "5"></textarea>
+                </div>
+                <div class = "span"><input type = "submit" value = "Submit"></div>
+            </form>
+        </div>
+    </main>
+    <footer class = "flex-column">
+        <p class = "small">&copy;Samuel Ramdial</p>
+        <ul class = "flex-row">
+            <li><a href = "https://github.com/samuelramdial"><i class = "fa-brands fa-square-github"></i></a></li>
+            <li><a href = "https://www.linkedin.com/in/samuel-ramdial/"><i class = "fa-brands fa-linkedin"></i></a></li>
+            <li><a href = "mailto:sramdial@uncc.edu"><i class = "fa-solid fa-envelope"></i></a></li>
+            <li><a href = "tel:9103229969"><i class = "fa-solid fa-mobile"></i></a></li>
+        </ul>
+    </footer>
+</body>
+</html>
