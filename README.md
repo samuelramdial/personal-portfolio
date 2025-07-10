@@ -20,3 +20,10 @@ This project is a responsive personal portfolio website built with **HTML5** and
 ## Live Demo 
 
 Check out the live website here: [My Portfolio Website](https://webpages.charlotte.edu/sramdial/itis3135/ramdial-samuel-project1/)
+
+## Acknowledgments 
+Project developed for: 
+- **ITSC 3135 - Web-Based Application Design and Development**
+- Intstructor: Dr. Lijuan Cao
+- University of North Carolina at Charlotte
+© 2025 Samuel Ramdial
