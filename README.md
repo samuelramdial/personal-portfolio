@@ -19,4 +19,4 @@ This project is a responsive personal portfolio website built with **HTML5** and
 
 ## Live Demo 
 
-Check out the live website here: [Your Portfolio Website](https://webpages.charlotte.edu/sramdial/itis3135/ramdial-samuel-project1/)
+Check out the live website here: [My Portfolio Website](https://webpages.charlotte.edu/sramdial/itis3135/ramdial-samuel-project1/)
